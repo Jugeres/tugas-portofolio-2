@@ -1,2 +1,2 @@
-# tugas-portofolio-2
-tugas portofolio
+# Portfolio
+Web portofolio sederhana
